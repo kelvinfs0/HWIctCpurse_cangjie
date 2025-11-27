@@ -1,1 +1,1 @@
-# HWIctCpurse_cangjie
+My CangJie course project.
